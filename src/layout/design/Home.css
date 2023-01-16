@@ -1,0 +1,38 @@
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.Home {
+  background-color: white;
+}
+
+.login {
+  margin-top: 10%;
+}
+
+#title {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Lucida Bright';
+}
+
+#loginImg {
+  margin-top: -10%;
+  margin-left: -5%;
+}
+
+#loginAlert {
+  background-color: #B0C4DE;
+  color: white;
+  width: 400px;
+  height: 90px;
+  margin-bottom: 7%;
+  border-radius: 1em;
+  padding: 0.1em;
+}
+
+#loginText {
+  margin-top: 5%;
+}
+
+#loginBtn {
+  margin-top: 3em;
+}

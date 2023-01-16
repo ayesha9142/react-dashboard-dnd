@@ -1,0 +1,40 @@
+body {
+    background-color: #F8F8F8;
+}
+.Revenue {
+    margin-top: -35%;
+}
+#g2 {
+    background-color: white;
+    padding: 15px 10px 15px 10px;
+}
+.text {
+    margin-top: 40px;
+    color: #191970;
+    font-family:   Georgia, Times, 'Times New Roman', serif;
+    padding: 1px 8px 8px 8px;
+}
+#desk {
+    padding-left: 300px;
+}
+#wh {
+    text-align: left;
+    margin-top: 5%;
+}
+#btn {
+    margin-left: 45%;
+}
+#secondary {
+    padding-left: 300px;
+}
+#deck {
+    margin-top: 6%;
+}
+#middle {
+    padding-left: 300px;
+    margin-top: -4%;
+}
+#mid {
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+}
