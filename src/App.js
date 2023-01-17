@@ -20,6 +20,7 @@ function App() {
       <div className="App">
         <div className="content">
           <Switch>
+            <Route path="/" component={Home} />
             <Route path="/Dashboard" component={Dashboard} />
             <Route path="/Nav" component={Nav} />
             <Route path="/SideNav" component={SideNav} />
@@ -32,7 +33,6 @@ function App() {
             <Route path="/DragDrop" component={DragDrop} />
             <Route path="/NavBar" component={NavBar} />
             <Route path="/Alert" component={Alert} />
-            <Route path="/" component={Home} />
           </Switch>
         </div>
       </div>
